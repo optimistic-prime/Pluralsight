@@ -16,5 +16,9 @@ Useful vids on this course
 - Will look for variables up the scope chain if not found in local scope
 
 - ForEach vs foreach
+  - Pipe things to ForEach and it outputs into the pipeline
+  - foreach does not go to pipeline
+    - foreach used to affect existing variables mostly
+  - Seems like ForEach will be better and allow or immutable variables
 
 - $params hash table is super useful for declaring a bunch of variables in a ledgible way. 
