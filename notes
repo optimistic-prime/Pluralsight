@@ -1,0 +1,20 @@
+Useful vids on this course
+  - PowerShell Scripting Fundamentals
+    - PowerShell scope
+    - PowerShell profile scripts
+  - Put it in Writing
+    - Adding Script parameters
+    - Demo: Creating a parameterized script
+  - Scripting techniques
+    - All
+  
+
+- Remote-Signed should be miminum security permissions
+  - Can't set security permissions on linux pwsh
+  - Beginning in PowerShell 6.0 for non-Windows computers, the default execution policy is Unrestricted and can't be changed. The Set-ExecutionPolicy cmdlet is available, but PowerShell displays a console message that it's not supported.
+
+- Will look for variables up the scope chain if not found in local scope
+
+- ForEach vs foreach
+
+- $params hash table is super useful for declaring a bunch of variables in a ledgible way. 
