@@ -9,9 +9,9 @@ If (-Not $Path) {
     exit 1
 }
 
-Write-Host "installing yaml module"
+Write-Host "importing yaml module"
 Import-Module powershell-yaml
-Write-Host "installed yaml module"
+Write-Host "imported yaml module"
 Write-Host ""
 
 $MyArray = [ordered]@{
