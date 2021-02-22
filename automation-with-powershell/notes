@@ -7,6 +7,11 @@ Useful vids on this course
     - Demo: Creating a parameterized script
   - Scripting techniques
     - All
+  - PowerShell Fun
+    - Eh, they're okay, none feel mandatory; would recommend though
+    - Rather niche
+  
+
   
 
 - Remote-Signed should be miminum security permissions
@@ -22,3 +27,7 @@ Useful vids on this course
   - Seems like ForEach will be better and allow or immutable variables
 
 - $params hash table is super useful for declaring a bunch of variables in a ledgible way. 
+
+- PowerShell built on .Net, can use methods as well as cmdlets
+
+- Scripts > Functions > Modules > Scritps (and continue cycle)
